@@ -1,0 +1,22 @@
+{
+    "name": "Prueba de mi primer pwa",
+    "short_name": "PWA",
+    "theme_color": "#ffe08a",
+    "background": "#ffe08a",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./logohockey512_512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "./hockey_icon_x72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        }        
+    ]
+}
